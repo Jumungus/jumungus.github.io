@@ -12,7 +12,17 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 5. ~~Sleep~~
 Cow Chillin:
 ![alt-text](https://www.atkins.ie/product/image/large/gwfs674653_0.jpeg "chillin")
-<iframe src="https://scratch.mit.edu/projects/717574867/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+### Scratch projects
+Cheetohog
+https://scratch.mit.edu/projects/717574867
+
+Cat Dragger
+https://scratch.mit.edu/projects/717283225
+
+##Spiceworks rule creation
+![assignhighpyrotoaiden](\\learn.cpp.ac.nz\User Data\Students\20220194\Documents\IT5010 TechSup\Ticket Rules\assignhighpryotoaiden.png "rules")
+
 
 
 
