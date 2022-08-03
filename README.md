@@ -4,6 +4,25 @@ You can use the [editor on GitHub](https://github.com/Jumungus/jumungus.github.i
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+# Week 3 Liquid Website Test
+1. Drive
+2. Power
+3. Hungry
+4. Devour
+5. ~~Sleep~~
+![alt-text](https://i.kym-cdn.com/photos/images/original/002/413/367/055"cow chillin")
+
+
+
+
+
+
+
+
+
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
