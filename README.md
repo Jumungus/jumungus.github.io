@@ -10,7 +10,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 3. Hungry
 4. Devour
 5. ~~Sleep~~
-![alt-text](https://i.kym-cdn.com/photos/images/original/002/413/367/055](https://cdn.drawception.com/drawings/ShT9VFSKDo.png"cow chillin")
+Cow Chillin: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://cdn.drawception.com/drawings/ShT9VFSKDo.png "Logo Title Text 1")
 
 
 
