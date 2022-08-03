@@ -22,11 +22,12 @@ https://scratch.mit.edu/projects/717574867
 Cat Dragger
 https://scratch.mit.edu/projects/717283225
 
-##Spiceworks rule creation
-Created 5 rules to assign prioity to specific tickets 
+### Spiceworks rule creation
+Created 5 rules to assign prioity to specific tickets  
 
-#4/08/22  
-line break by ending a line with 2 spaces and then press enter
+### 4/08/22  
+line break by ending a line with 2 spaces and then press enter  
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jumungus/jumungus.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
