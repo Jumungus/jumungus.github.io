@@ -10,7 +10,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 3. Hungry
 4. Devour
 5. ~~Sleep~~
-Cow Chillin:
+Cow Chillin:  
 ![alt-text](https://www.atkins.ie/product/image/large/gwfs674653_0.jpeg "chillin")
 
 ### Scratch projects
